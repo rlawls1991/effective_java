@@ -1,4 +1,4 @@
-package field
+package com.effective.chapter._3.field.MockTest
 
 import com.effective.chapter._3.field.IElvis
 
@@ -9,4 +9,3 @@ class MockElvis : IElvis {
         println("You ain't nothin' but a hound dog.")
     }
 }
-
