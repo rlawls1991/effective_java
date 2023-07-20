@@ -1,4 +1,4 @@
-package com.effective.chapter
+package com.effective.chapter._1
 
 
 interface HelloService {
