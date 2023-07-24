@@ -13,4 +13,3 @@ object App {
         spellChecker.isValid("")
     }
 }
-
